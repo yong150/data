@@ -9,7 +9,7 @@
       "linkType": "",
       "title": "Call of Duty\nModern Warfare",
       "desc": "Season 1 is available now",
-      "color": "",
+      "color": "#131218",
       "order": 0,
       "buttons": [
         {
@@ -28,7 +28,7 @@
       "linkType": "",
       "title": "Ori and the\nWill of the Wisps",
       "desc": "A new journey begins",
-      "color": "",
+      "color": "#131218",
       "order": 1,
       "buttons": [
         {
@@ -47,7 +47,7 @@
       "linkType": "",
       "title": "No.1 Marketplace\nFor DIGITAL ITEMS",
       "desc": "Trade securely with gamers throughout the world.",
-      "color": "",
+      "color": "#131218",
       "order": 2,
       "buttons": [
         {
@@ -66,7 +66,7 @@
       "linkType": "",
       "title": "Knight Story is an innovative mobile RPG powered by blockchain. The game is the second title of Biscuit; developed EOS Knights, the legendary blockchain game.BUY NOW chevron_right",
       "desc": "KnightStory is Live!",
-      "color": "",
+      "color": "#131218",
       "order": 3,
       "buttons": [
         {
@@ -85,7 +85,7 @@
       "linkType": "",
       "title": "The largest marketplace for crypto collectibles",
       "desc": "Buy, sell, and discoverrare digital items",
-      "color": "",
+      "color": "#131218",
       "order": 4,
       "buttons": [
         {
@@ -104,7 +104,7 @@
       "linkType": "",
       "title": "The largest marketplace for crypto collectibles",
       "desc": "Buy, sell, and discoverrare digital items",
-      "color": "",
+      "color": "#131218",
       "order": 5,
       "buttons": [
         {
@@ -123,7 +123,7 @@
       "linkType": "",
       "title": "PRE-ORDER with 30% SALE",
       "desc": "30% of the package cost will be transferred into the reward pool",
-      "color": "",
+      "color": "#131218",
       "order": 0,
       "buttons": [
         {
@@ -142,7 +142,7 @@
       "linkType": "",
       "title": "My Crypto Heroes",
       "desc": "Your time and passion will become assets.",
-      "color": "",
+      "color": "#131218",
       "order": 1,
       "buttons": [
         {
@@ -161,7 +161,7 @@
       "linkType": "",
       "title": "DARK SOULS™ III",
       "desc": "Prepare yourself and Embrace The Darkness!",
-      "color": "",
+      "color": "#131218",
       "order": 2,
       "buttons": [
         {
@@ -180,7 +180,7 @@
       "linkType": "",
       "title": "Tomb Raider",
       "desc": "Lara must become the Tomb Raider she is destined to be.",
-      "color": "",
+      "color": "#131218",
       "order": 3,
       "buttons": [
         {
@@ -194,12 +194,12 @@
       "id": 11,
       "bannerType": "mid",
       "imageLog": "",
-      "imageUrl": "",
+      "imageUrl": "https://ssl.pstatic.net/tveta/libs/1262/1262651/0dd8059ea2d4ff0fd446_20200108190355409_1.jpg",
       "link": "",
       "linkType": "",
       "title": "",
       "desc": "",
-      "color": "",
+      "color": "#131218",
       "order": 0,
       "buttons": [
         {
