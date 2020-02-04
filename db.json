@@ -1,5 +1,5 @@
 {
-  "main-banners": [
+  "banners": [
     {
       "id": 1,
       "bannerType": "main",
@@ -124,7 +124,7 @@
       "title": "",
       "desc": "",
       "color": "",
-      "order": 2,
+      "order": 0,
       "buttons": [
         {
           "text": "",
