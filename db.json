@@ -1,14 +1,68 @@
 {
-  "Posts": [
-    { "id": 1, "title": "Post 1112312312" },
-    { "id": 2, "title": "Post q23222222" },
-    { "id": 3, "title": "Post 3sd33333" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "main-banner": [
+    { 
+      "id": 1, 
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order" : 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    { 
+      "id": 2, 
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order" : 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    { 
+      "id": 3, 
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order" : 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    { 
+      "id": 4, 
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order" : 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    }
+  ]
 }
