@@ -218,7 +218,10 @@
       "linkType": "",
       "title": "How to play",
       "desc": "My Crypto Heroes",
-      "color": "",
+      "color": {
+        "font": "",
+        "background": ""
+      },
       "order": 0,
       "buttons": [
         {
@@ -270,7 +273,7 @@
   "news": [
     {
       "id": 1,
-      "titleImage": "https://compass-ssl.xbox.com/assets/34/db/34db2087-6142-466a-8baa-f88a5785616e.jpg?n=Alloy-MWF_gallery-desktop_1154x649_02.jpg",
+      "titleImageUrl": "https://compass-ssl.xbox.com/assets/34/db/34db2087-6142-466a-8baa-f88a5785616e.jpg?n=Alloy-MWF_gallery-desktop_1154x649_02.jpg",
       "title": "Ubisoft partners with blockchain game distributor Ultra for UOS testnet validation",
       "summary": "In an interesting move, French game publisher Ubisoft has announced it’s going to run a node for forthcoming blockchain game distribution platform Ultra. Ultra runs on a version of the EOSIO protocol it calls UOS...",
       "type": "news",
@@ -278,7 +281,7 @@
     },
     {
       "id": 2,
-      "titleImage": "https://store-images.s-microsoft.com/image/apps.8628.69435230515002378.af86836f-c697-4e65-bba8-ba1d504754e2.0323adae-13d7-4681-8a9c-627ed20e57e0?w=1399&h=787&q=90&format=jpg",
+      "titleImageUrl": "https://store-images.s-microsoft.com/image/apps.8628.69435230515002378.af86836f-c697-4e65-bba8-ba1d504754e2.0323adae-13d7-4681-8a9c-627ed20e57e0?w=1399&h=787&q=90&format=jpg",
       "title": "EOS Knights released on Ethereum as Knight Story",
       "summary": "The new version of popular blockchain mobile RPG EOS Knights has been released under the name Knight Story. The original EOS Knights game appears to be working as normal.",
       "type": "news",
@@ -286,7 +289,7 @@
     },
     {
       "id": 3,
-      "titleImage": "https://compass-ssl.xbox.com/assets/45/96/4596c7ee-b415-4c44-b10d-b8567847c0f7.jpg?n=Mortal-Kombat-11_Gallery_Thumbnail_1154x649_03.jpg",
+      "titleImageUrl": "https://compass-ssl.xbox.com/assets/45/96/4596c7ee-b415-4c44-b10d-b8567847c0f7.jpg?n=Mortal-Kombat-11_Gallery_Thumbnail_1154x649_03.jpg",
       "title": "Futuristic racer Light Trail Rush NFT skin sale now live",
       "summary": "One of the pioneers of blockchain gaming with Beyond The Void, French developer B2Expand is gearing up production for its new title Light Trail Rush. Although not due for global release until later in 2020,",
       "type": "news",
@@ -294,11 +297,275 @@
     },
     {
       "id": 4,
-      "titleImage": "https://compass-ssl.xbox.com/assets/02/4d/024dae50-4014-47f8-ba2b-fe436ef5437c.jpg?n=Alloy-MWF_gallery-desktop_1154x649_05.jpg",
+      "titleImageUrl": "https://compass-ssl.xbox.com/assets/02/4d/024dae50-4014-47f8-ba2b-fe436ef5437c.jpg?n=Alloy-MWF_gallery-desktop_1154x649_05.jpg",
       "title": "Simple crypto wallet Bitski raises $3.5 million from Winklevoss Capital and Coinbase",
       "summary": "Simple custodian blockchain wallet solution Bitski has announced it’s closed a $3.5 million seed round. Investors included Galaxy Digital, Winklevoss Capital, Kindred Ventures, Coinbase, SV Angel, Animoca Brands, Signia …",
       "type": "news",
       "typeId": "1"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "tradeType": "auction",
+      "orderType": "desc",
+      "endDate": "2020-02-15",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1349221-1559206505.png",
+      "price": "0.0022",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Lilah Kramer"
+    },
+    {
+      "id": 2,
+      "tradeType": "auction",
+      "orderType": "desc",
+      "endDate": "2020-02-15",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1768564-1575319237.png",
+      "price": "0.0123",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Jobe Potts"
+    },
+    {
+      "id": 3,
+      "tradeType": "auction",
+      "orderType": "desc",
+      "endDate": "2020-02-15",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1775407-1576077789.png",
+      "price": "0.1334",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Milly Hackett"
+    },
+    {
+      "id": 4,
+      "tradeType": "auction",
+      "orderType": "desc",
+      "endDate": "2020-02-15",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1774717-1576019325.png",
+      "price": "0.2233",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Lloyd Fraser"
+    },
+    {
+      "id": 5,
+      "tradeType": "auction",
+      "orderType": "desc",
+      "endDate": "2020-02-15",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1774188-1575980816.png",
+      "price": "0.9223",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Maliha Allman"
+    },
+    {
+      "id": 6,
+      "tradeType": "auction",
+      "orderType": "asc",
+      "endDate": "2020-02-30",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1333430-1558768026.png",
+      "price": "0.1022",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Shelly Martinez"
+    },
+    {
+      "id": 7,
+      "tradeType": "auction",
+      "orderType": "asc",
+      "endDate": "2020-02-30",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1-1549849930.png",
+      "price": "0.2123",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Carmen Gibbons"
+    },
+    {
+      "id": 8,
+      "tradeType": "auction",
+      "orderType": "asc",
+      "endDate": "2020-02-30",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/120085-1554366618.png",
+      "price": "0.4334",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Regan Marks"
+    },
+    {
+      "id": 9,
+      "tradeType": "auction",
+      "orderType": "asc",
+      "endDate": "2020-02-30",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1555246-1556686830.png",
+      "price": "0.5233",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Verity Whittaker"
+    },
+    {
+      "id": 10,
+      "tradeType": "auction",
+      "orderType": "asc",
+      "endDate": "2020-02-30",
+      "imageUrl": "https://storage.opensea.io/0x06012c8cf97bead5deae237070f9587f8e7a266d-preview/1345878.png",
+      "price": "0.5423",
+      "gameImage": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "name": "Wesley Williams"
+    }
+  ],
+  "trends": [
+    {
+      "id": 1,
+      "trendType": "popular",
+      "rank": 1,
+      "diffRank": -1,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.penguindash/CgPiFtab9m.png",
+      "gameName": "Battlefield: Beautician Shootout"
+    },
+    {
+      "id": 2,
+      "trendType": "popular",
+      "rank": 2,
+      "diffRank": 2,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.cosmicpop/mToybCfPMs.jpg",
+      "gameName": "Subatomic Cheese Exhibition"
+    },
+    {
+      "id": 3,
+      "trendType": "popular",
+      "rank": 3,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.neo2048/OfhRaeH2Es.jpg",
+      "gameName": "Big Bird's Dwarf Babies"
+    },
+    {
+      "id": 4,
+      "trendType": "popular",
+      "rank": 4,
+      "diffRank": -1,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.shanghai/3GvBCVRdJs.jpg",
+      "gameName": "Custom Nuclear Crime Scene Investigation"
+    },
+    {
+      "id": 5,
+      "trendType": "popular",
+      "rank": 5,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.zombiegun/0lt9oFOENs.jpg",
+      "gameName": "Bewildering Horse Racing Shootout"
+    },
+    {
+      "id": 6,
+      "trendType": "popular",
+      "rank": 6,
+      "diffRank": 10,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.spacebubble/iWjzlmZxLs.jpg",
+      "gameName": "Occult Pirate Princess"
+    },
+    {
+      "id": 7,
+      "trendType": "popular",
+      "rank": 7,
+      "diffRank": -6,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.druma/ivUVL6bI3s.jpg",
+      "gameName": "Fisher Price Leisure Suit Spectacular"
+    },
+    {
+      "id": 8,
+      "trendType": "popular",
+      "rank": 8,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.mahjong/7IM9BK2Sns.jpg",
+      "gameName": "Wild West Frog - The Next Generation"
+    },
+    {
+      "id": 9,
+      "trendType": "popular",
+      "rank": 9,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.panintingcut/PAIkrg0JGs.jpg",
+      "gameName": "Darkest Lego School"
+    },
+    {
+      "id": 10,
+      "trendType": "popular",
+      "rank": 10,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.nekopang/r1T0NeIWLs.jpg",
+      "gameName": "Papal Skydiving - The Quickening"
+    },
+    {
+      "id": 11,
+      "trendType": "trading",
+      "rank": 1,
+      "diffRank": -1,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.colorpop/shbOo5UzSs.jpg",
+      "gameName": "Battlefield: Beautician Shootout"
+    },
+    {
+      "id": 12,
+      "trendType": "trading",
+      "rank": 2,
+      "diffRank": 2,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.spaceballs/iH9YFXuwzs.jpg",
+      "gameName": "Subatomic Cheese Exhibition"
+    },
+    {
+      "id": 13,
+      "trendType": "trading",
+      "rank": 3,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.yokaiparty/au1lQT97ms.png",
+      "gameName": "Big Bird's Dwarf Babies"
+    },
+    {
+      "id": 14,
+      "trendType": "trading",
+      "rank": 4,
+      "diffRank": -1,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.sudoku/RmS4aqyHgs.png",
+      "gameName": "Custom Nuclear Crime Scene Investigation"
+    },
+    {
+      "id": 15,
+      "trendType": "trading",
+      "rank": 5,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.rushhour/3rjWOnvgxs.png",
+      "gameName": "Bewildering Horse Racing Shootout"
+    },
+    {
+      "id": 16,
+      "trendType": "trading",
+      "rank": 6,
+      "diffRank": 10,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.pockthiddencatch/VFE9U4CjPs.png",
+      "gameName": "Occult Pirate Princess"
+    },
+    {
+      "id": 17,
+      "trendType": "trading",
+      "rank": 7,
+      "diffRank": -6,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.sweetbricks/lEfm6HB0is.png",
+      "gameName": "Fisher Price Leisure Suit Spectacular"
+    },
+    {
+      "id": 18,
+      "trendType": "trading",
+      "rank": 8,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.rivalracing/wyARd7SDJs.png",
+      "gameName": "Wild West Frog - The Next Generation"
+    },
+    {
+      "id": 19,
+      "trendType": "trading",
+      "rank": 9,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.nekoninja/LE63hyxlzs.png",
+      "gameName": "Darkest Lego School"
+    },
+    {
+      "id": 20,
+      "trendType": "trading",
+      "rank": 10,
+      "diffRank": 0,
+      "gameImageUrl": "https://static.popcongame.com/game/com.movigame.momimomi/qDbMtaIu6s.png",
+      "gameName": "Papal Skydiving - The Quickening"
     }
   ]
 }
