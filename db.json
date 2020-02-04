@@ -208,73 +208,96 @@
           "typeId": ""
         }
       ]
+    },
+    {
+      "id": 12,
+      "bannerType": "guide",
+      "imageLog": "",
+      "imageUrl": "https://storage.googleapis.com/opensea-static/logos/metamask.png",
+      "link": "",
+      "linkType": "",
+      "title": "How to play",
+      "desc": "My Crypto Heroes",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "bannerType": "guide",
+      "imageLog": "",
+      "imageUrl": "https://storage.googleapis.com/opensea-static/logos/metamask.png",
+      "link": "",
+      "linkType": "",
+      "title": "How to install and",
+      "desc": "Use Metamask",
+      "color": "",
+      "order": 1,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "bannerType": "guide",
+      "imageLog": "",
+      "imageUrl": "https://storage.googleapis.com/opensea-static/logos/metamask.png",
+      "link": "",
+      "linkType": "",
+      "title": "What is NFT?",
+      "desc": "What is ERC-721?",
+      "color": "",
+      "order": 2,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
     }
   ],
   "news": [
     {
       "id": 1,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
+      "titleImage": "https://compass-ssl.xbox.com/assets/34/db/34db2087-6142-466a-8baa-f88a5785616e.jpg?n=Alloy-MWF_gallery-desktop_1154x649_02.jpg",
+      "title": "Ubisoft partners with blockchain game distributor Ultra for UOS testnet validation",
+      "summary": "In an interesting move, French game publisher Ubisoft has announced it’s going to run a node for forthcoming blockchain game distribution platform Ultra. Ultra runs on a version of the EOSIO protocol it calls UOS...",
       "type": "news",
       "typeId": "1"
     },
     {
       "id": 2,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
-      "type": "news",
-      "typeId": "1"
-    },
-    {
-      "id": 2,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
+      "titleImage": "https://store-images.s-microsoft.com/image/apps.8628.69435230515002378.af86836f-c697-4e65-bba8-ba1d504754e2.0323adae-13d7-4681-8a9c-627ed20e57e0?w=1399&h=787&q=90&format=jpg",
+      "title": "EOS Knights released on Ethereum as Knight Story",
+      "summary": "The new version of popular blockchain mobile RPG EOS Knights has been released under the name Knight Story. The original EOS Knights game appears to be working as normal.",
       "type": "news",
       "typeId": "1"
     },
     {
       "id": 3,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
+      "titleImage": "https://compass-ssl.xbox.com/assets/45/96/4596c7ee-b415-4c44-b10d-b8567847c0f7.jpg?n=Mortal-Kombat-11_Gallery_Thumbnail_1154x649_03.jpg",
+      "title": "Futuristic racer Light Trail Rush NFT skin sale now live",
+      "summary": "One of the pioneers of blockchain gaming with Beyond The Void, French developer B2Expand is gearing up production for its new title Light Trail Rush. Although not due for global release until later in 2020,",
       "type": "news",
       "typeId": "1"
-    }
-  ],
-  "guides": [
-    {
-      "id": 1,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
-      "type": "guide",
-      "typeId": "1"
     },
     {
-      "id": 2,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
-      "type": "guide",
-      "typeId": "1"
-    },
-    {
-      "id": 2,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
-      "type": "guide",
-      "typeId": "1"
-    },
-    {
-      "id": 3,
-      "titleImage": "",
-      "title": "",
-      "summary": "",
-      "type": "guide",
+      "id": 4,
+      "titleImage": "https://compass-ssl.xbox.com/assets/02/4d/024dae50-4014-47f8-ba2b-fe436ef5437c.jpg?n=Alloy-MWF_gallery-desktop_1154x649_05.jpg",
+      "title": "Simple crypto wallet Bitski raises $3.5 million from Winklevoss Capital and Coinbase",
+      "summary": "Simple custodian blockchain wallet solution Bitski has announced it’s closed a $3.5 million seed round. Investors included Galaxy Digital, Winklevoss Capital, Kindred Ventures, Coinbase, SV Angel, Animoca Brands, Signia …",
+      "type": "news",
       "typeId": "1"
     }
   ]
