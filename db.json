@@ -117,12 +117,12 @@
     {
       "id": 7,
       "bannerType": "spot",
-      "imageLog": "",
-      "imageUrl": "1111111111",
+      "imageLog": "https://gameabout.com/files/attach/images/111/473/351/004/8861ba506b3ef4c468333e570f56f70a.png",
+      "imageUrl": "https://compass-ssl.xbox.com/assets/2f/06/2f06b11f-3e9f-4907-bc01-83d8116eded3.jpg?n=623340_Page-Hero-1084_1920x720.jpg",
       "link": "",
       "linkType": "",
-      "title": "",
-      "desc": "",
+      "title": "PRE-ORDER with 30% SALE",
+      "desc": "30% of the package cost will be transferred into the reward pool",
       "color": "",
       "order": 0,
       "buttons": [
@@ -136,14 +136,14 @@
     {
       "id": 8,
       "bannerType": "spot",
-      "imageLog": "",
-      "imageUrl": "1111111111",
+      "imageLog": "https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F1458004E50DC4E4B365665",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.18161.14218490899188575.a8c726f9-aa48-4378-bee2-0dffc21a7089.098005d1-269e-4f16-a67b-6669d7a9b05c?mode=scale&q=90&h=1080&w=1920",
       "link": "",
       "linkType": "",
-      "title": "",
-      "desc": "",
+      "title": "My Crypto Heroes",
+      "desc": "Your time and passion will become assets.",
       "color": "",
-      "order": 3,
+      "order": 1,
       "buttons": [
         {
           "text": "",
@@ -156,13 +156,13 @@
       "id": 9,
       "bannerType": "spot",
       "imageLog": "",
-      "imageUrl": "1111111111",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.13421.69361434237560300.08369373-2b5b-4056-89d1-c943a5bfd11b.10888131-9707-4799-a250-2f598c3c4fb6?w=1399&h=787&q=90&format=jpg",
       "link": "",
       "linkType": "",
-      "title": "",
-      "desc": "",
+      "title": "DARK SOULS™ III",
+      "desc": "Prepare yourself and Embrace The Darkness!",
       "color": "",
-      "order": 4,
+      "order": 2,
       "buttons": [
         {
           "text": "",
@@ -173,14 +173,41 @@
     },
     {
       "id": 10,
+      "bannerType": "spot",
+      "imageLog": "https://store-images.s-microsoft.com/image/apps.13421.69361434237560300.08369373-2b5b-4056-89d1-c943a5bfd11b.10888131-9707-4799-a250-2f598c3c4fb6?w=1399&h=787&q=90&format=jpg",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.33267.69361434237560300.08369373-2b5b-4056-89d1-c943a5bfd11b.835f05b0-1411-4ef3-8e87-cc4bc1c43c4f?w=1399&h=787&q=90&format=jpg",
+      "link": "",
+      "linkType": "",
+      "title": "Tomb Raider",
+      "desc": "Lara must become the Tomb Raider she is destined to be.",
+      "color": "",
+      "order": 3,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
       "bannerType": "mid",
       "imageLog": "",
-      "imageUrl": "1111111111",
+      "imageUrl": "",
       "link": "",
       "linkType": "",
       "title": "",
       "desc": "",
-      "color": ""
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
     }
   ],
   "news": [
