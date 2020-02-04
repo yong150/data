@@ -1,68 +1,172 @@
 {
-  "main-banner": [
-    { 
-      "id": 1, 
-      "imageUrl": "1111111111",
-      "link": "link to where-ever",
-      "title": "",
-      "desc": "",
-      "color": "",
-      "order" : 0,
-      "buttons": [
-        {
-          "text": "",
-          "type": "",
-          "typeId": ""
-        }
-      ]
-    },
-    { 
-      "id": 2, 
-      "imageUrl": "1111111111",
-      "link": "link to where-ever",
-      "title": "",
-      "desc": "",
-      "color": "",
-      "order" : 0,
-      "buttons": [
-        {
-          "text": "",
-          "type": "",
-          "typeId": ""
-        }
-      ]
-    },
-    { 
-      "id": 3, 
-      "imageUrl": "1111111111",
-      "link": "link to where-ever",
-      "title": "",
-      "desc": "",
-      "color": "",
-      "order" : 0,
-      "buttons": [
-        {
-          "text": "",
-          "type": "",
-          "typeId": ""
-        }
-      ]
-    },
-    { 
-      "id": 4, 
-      "imageUrl": "1111111111",
-      "link": "link to where-ever",
-      "title": "",
-      "desc": "",
-      "color": "",
-      "order" : 0,
-      "buttons": [
-        {
-          "text": "",
-          "type": "",
-          "typeId": ""
-        }
-      ]
-    }
-  ]
+  "banner": {
+    "main": [
+      { 
+        "id": 1, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 0,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 2, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 0,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 3, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 0,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 4, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 0,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      }
+    ],
+    "spot": [
+      { 
+        "id": 1, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 0,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 2, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 1,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 3, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 2,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 4, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 3,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      },
+      { 
+        "id": 5, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": "",
+        "order" : 4,
+        "buttons": [
+          {
+            "text": "",
+            "type": "",
+            "typeId": ""
+          }
+        ]
+      }
+    ],
+    "mid": [
+      { 
+        "id": 1, 
+        "imageUrl": "1111111111",
+        "link": "link to where-ever",
+        "linkType": "in",
+        "title": "",
+        "desc": "",
+        "color": ""
+      }
+    ]
+  }
 }
