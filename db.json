@@ -127,7 +127,7 @@
       "order": 0,
       "buttons": [
         {
-          "text": "",
+          "text": "GO PRE-ORDER",
           "type": "",
           "typeId": ""
         }
@@ -219,8 +219,8 @@
       "title": "How to play",
       "desc": "My Crypto Heroes",
       "color": {
-        "font": "",
-        "background": ""
+        "font": "#fff",
+        "background": "#3593FF"
       },
       "order": 0,
       "buttons": [
@@ -240,7 +240,10 @@
       "linkType": "",
       "title": "How to install and",
       "desc": "Use Metamask",
-      "color": "",
+      "color": {
+        "font": "#fff",
+        "background": "#00BFE4"
+      },
       "order": 1,
       "buttons": [
         {
@@ -259,7 +262,10 @@
       "linkType": "",
       "title": "What is NFT?",
       "desc": "What is ERC-721?",
-      "color": "",
+      "color": {
+        "font": "#000",
+        "background": "#FFFFFF"
+      },
       "order": 2,
       "buttons": [
         {
