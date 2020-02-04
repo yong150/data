@@ -2,6 +2,7 @@
   "main-banners": [
     {
       "id": 1,
+      "bannerType": "main",
       "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
@@ -20,6 +21,8 @@
     },
     {
       "id": 2,
+      "bannerType": "main",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -37,6 +40,8 @@
     },
     {
       "id": 3,
+      "bannerType": "main",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -54,25 +59,8 @@
     },
     {
       "id": 4,
-      "imageUrl": "1111111111",
-      "link": "link to where-ever",
-      "linkType": "in",
-      "title": "",
-      "desc": "",
-      "color": "",
-      "order": 0,
-      "buttons": [
-        {
-          "text": "",
-          "type": "",
-          "typeId": ""
-        }
-      ]
-    }
-  ],
-  "spot-banners": [
-    {
-      "id": 1,
+      "bannerType": "main",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -89,7 +77,28 @@
       ]
     },
     {
-      "id": 2,
+      "id": 5,
+      "bannerType": "spot",
+      "imageLog": "",
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "bannerType": "spot",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -106,7 +115,9 @@
       ]
     },
     {
-      "id": 3,
+      "id": 7,
+      "bannerType": "spot",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -123,7 +134,9 @@
       ]
     },
     {
-      "id": 4,
+      "id": 8,
+      "bannerType": "spot",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -140,7 +153,9 @@
       ]
     },
     {
-      "id": 5,
+      "id": 9,
+      "bannerType": "spot",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
@@ -155,11 +170,11 @@
           "typeId": ""
         }
       ]
-    }
-  ],
-  "mid-banners": [
+    },
     {
-      "id": 1,
+      "id": 10,
+      "bannerType": "mid",
+      "imageLog": "",
       "imageUrl": "1111111111",
       "link": "link to where-ever",
       "linkType": "in",
