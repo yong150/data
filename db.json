@@ -1,174 +1,173 @@
 {
-  "banner": {
-    "main": [
-      {
-        "id": 1,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 0,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 0,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 0,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 0,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      }
-    ],
-    "spot": [
-      {
-        "id": 1,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 0,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 1,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 2,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 3,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": "",
-        "order": 4,
-        "buttons": [
-          {
-            "text": "",
-            "type": "",
-            "typeId": ""
-          }
-        ]
-      }
-    ],
-    "mid": [
-      {
-        "id": 1,
-        "imageUrl": "1111111111",
-        "link": "link to where-ever",
-        "linkType": "in",
-        "title": "",
-        "desc": "",
-        "color": ""
-      }
-    ]
-  },
+  "main-banners": [
+    {
+      "id": 1,
+      "imageLog": "",
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    }
+  ],
+  "spot-banners": [
+    {
+      "id": 1,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 0,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 1,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 2,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 3,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": "",
+      "order": 4,
+      "buttons": [
+        {
+          "text": "",
+          "type": "",
+          "typeId": ""
+        }
+      ]
+    }
+  ],
+  "mid-banners": [
+    {
+      "id": 1,
+      "imageUrl": "1111111111",
+      "link": "link to where-ever",
+      "linkType": "in",
+      "title": "",
+      "desc": "",
+      "color": ""
+    }
+  ],
   "news": [
     {
       "id": 1,
@@ -200,6 +199,40 @@
       "title": "",
       "summary": "",
       "type": "news",
+      "typeId": "1"
+    }
+  ],
+  "guides": [
+    {
+      "id": 1,
+      "titleImage": "",
+      "title": "",
+      "summary": "",
+      "type": "guide",
+      "typeId": "1"
+    },
+    {
+      "id": 2,
+      "titleImage": "",
+      "title": "",
+      "summary": "",
+      "type": "guide",
+      "typeId": "1"
+    },
+    {
+      "id": 2,
+      "titleImage": "",
+      "title": "",
+      "summary": "",
+      "type": "guide",
+      "typeId": "1"
+    },
+    {
+      "id": 3,
+      "titleImage": "",
+      "title": "",
+      "summary": "",
+      "type": "guide",
       "typeId": "1"
     }
   ]
