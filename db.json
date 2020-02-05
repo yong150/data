@@ -193,9 +193,9 @@
     {
       "id": 11,
       "bannerType": "mid",
-      "imageLog": "https://www.naver.com/",
+      "imageLog": "",
       "imageUrl": "https://ssl.pstatic.net/tveta/libs/1262/1262651/0dd8059ea2d4ff0fd446_20200108190355409_1.jpg",
-      "link": "",
+      "link": "https://www.naver.com/",
       "linkType": "",
       "title": "",
       "desc": "",
