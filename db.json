@@ -922,67 +922,67 @@
   ],
   "my-favorite": [
     {
-      "gameImage" : "InfinityStar",
-      "gameName" : "InfinityStar",
+      "gameImage": "InfinityStar",
+      "gameName": "InfinityStar",
       "isFavorite": "true",
-      "updateDate" : "2006-01-04 10:34:23"
+      "updateDate": "2006-01-04 10:34:23"
     },
     {
-      "gameImage" : "CryptoLegends",
-      "gameName" : "CryptoLegends",
+      "gameImage": "CryptoLegends",
+      "gameName": "CryptoLegends",
       "isFavorite": "true",
-      "updateDate" : "2012-01-04 10:34:23"
+      "updateDate": "2012-01-04 10:34:23"
     },
     {
-      "gameImage" : "Eon",
-      "gameName" : "Eon",
+      "gameImage": "Eon",
+      "gameName": "Eon",
       "isFavorite": "true",
-      "updateDate" : "2010-01-04 10:34:23"
+      "updateDate": "2010-01-04 10:34:23"
     },
     {
-      "gameImage" : "GodsUnchained",
-      "gameName" : "GodsUnchained",
+      "gameImage": "GodsUnchained",
+      "gameName": "GodsUnchained",
       "isFavorite": "true",
-      "updateDate" : "2019-01-04 10:34:23"
+      "updateDate": "2019-01-04 10:34:23"
     },
     {
-      "gameImage" : "TronArcade",
-      "gameName" : "TronArcade",
+      "gameImage": "TronArcade",
+      "gameName": "TronArcade",
       "isFavorite": "true",
-      "updateDate" : "2016-03-04 10:34:23"
+      "updateDate": "2016-03-04 10:34:23"
     },
     {
-      "gameImage" : "ChainPlus",
-      "gameName" : "ChainPlus",
+      "gameImage": "ChainPlus",
+      "gameName": "ChainPlus",
       "isFavorite": "true",
-      "updateDate" : "2016-01-05 10:34:23"
+      "updateDate": "2016-01-05 10:34:23"
     },
     {
-      "gameImage" : "WarOfCrypto",
-      "gameName" : "WarOfCrypto",
+      "gameImage": "WarOfCrypto",
+      "gameName": "WarOfCrypto",
       "isFavorite": "true",
-      "updateDate" : "2016-01-04 11:34:23"
+      "updateDate": "2016-01-04 11:34:23"
     },
     {
-      "gameImage" : "AsteroidRush",
-      "gameName" : "AsteroidRush",
+      "gameImage": "AsteroidRush",
+      "gameName": "AsteroidRush",
       "isFavorite": "true",
-      "updateDate" : "2016-01-04 10:34:43"
+      "updateDate": "2016-01-04 10:34:43"
     }
   ],
   "game-items": [
     {
-      "gameName" : "CryptoKitties",
+      "gameName": "CryptoKitties",
       "data": [
         {
           "itemImage": "kitty1",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Rara Delinana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0157",
-          "updateDate" : "2006-01-04 10:34:23",
+          "updateDate": "2020-01-04 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
@@ -995,1155 +995,222 @@
             },
             {
               "name": "Color Eye",
-              "value": ["Cyan"]
+              "value": [
+                "Cyan"
+              ]
             },
             {
               "name": "body",
-              "value": ["birman", "lynx", "chantilly"]
+              "value": [
+                "birman",
+                "lynx",
+                "chantilly"
+              ]
             },
             {
               "name": "Color Primary",
-              "value":["hyacinth", "tundra", "cinderella"]
+              "value": [
+                "hyacinth",
+                "tundra",
+                "cinderella"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["coffee", "scarlet"]
+              "value": [
+                "coffee",
+                "scarlet"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "perwinkle", "peach"]
+              "value": [
+                "daffodil",
+                "perwinkle",
+                "peach"
+              ]
             },
             {
               "name": "Environment",
-              "value":["salty"]
+              "value": [
+                "salty"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["wiley"]
+              "value": [
+                "wiley"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Shoopadoop", "Mars", "Meuwn"]
+              "value": [
+                "Shoopadoop",
+                "Mars",
+                "Meuwn"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["samwise"]
+              "value": [
+                "samwise"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["dippedcone", "calicool"]
+              "value": [
+                "dippedcone",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "furball"
+              ]
             },
             {
               "name": "Wild",
-              "value":["wyrm"]
+              "value": [
+                "wyrm"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty2",
           "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
+          "auctionLimitDate": "2020-03-09 10:45:56",
           "itemAddress": "#12355645554845452121211212",
           "itemName": "Rafa Deleno",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.158",
-          "updateDate" : "2006-01-04 10:34:03",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "9"
-              },
-              {
-                "name": "Generation",
-                "value": "3"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["chestnut"]
-              },
-              {
-                "name": "body",
-                "value": ["manx", "liger", "siberian"]
-              },
-              {
-                "name": "Color Primary",
-                "value":["greymatter", "cinderella"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["lilac", "violet"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["kalahari", "missmuffett", "chocolate"]
-              },
-              {
-                "name": "Environment",
-                "value":["jacked"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":["exclusive"]
-              },
-              {
-                "name": "Eyes",
-                "value":["stunned"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Chitten", "DocPurr", "LilBUB"]
-              },
-              {
-                "name": "Mouth",
-                "value":["grim"]
-              },
-              {
-                "name": "Pattern",
-                "value":["tiger", "spock"]
-              },
-              {
-                "name": "Prestige",
-                "value":["prune"]
-              },
-              {
-                "name": "Wild",
-                "value":["elk"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty3",
-          "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "Raja Delekuo",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0",
-          "updateDate" : "2006-01-04 10:36:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "2"
-              },
-              {
-                "name": "Generation",
-                "value": "1"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["bubblegum"]
-              },
-              {
-                "name": "body",
-                "value": ["cymric", "kurilian", "sphynx"]
-              },
-              {
-                "name": "Color Primary",
-                "value":["orangesoda", "shamrock", "hintomint"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["poisonberry", "mertail"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["morningglory", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["prism"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["TallyThePurrocious", "KittyFormerlyKnownAsPrince"]
-              },
-              {
-                "name": "Mouth",
-                "value":["cheeky"]
-              },
-              {
-                "name": "Pattern",
-                "value":["rorschach", "calicool"]
-              },
-              {
-                "name": "Prestige",
-                "value":["prune"]
-              },
-              {
-                "name": "Wild",
-                "value":["ducky"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty4",
-          "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "Jaja Dekuo",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0",
-          "updateDate" : "2006-01-04 11:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "7"
-              },
-              {
-                "name": "Generation",
-                "value": "9"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["eclipse"]
-              },
-              {
-                "name": "body",
-                "value": ["fox"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["lavender", "cornflower", "hintomint"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["poisonberry", "mertail"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["morningglory", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["prism"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":["exclusive"]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["TallyThePurrocious", "KittyFormerlyKnownAsPrince"]
-              },
-              {
-                "name": "Mouth",
-                "value":["cheeky"]
-              },
-              {
-                "name": "Pattern",
-                "value":["rorschach", "calicool"]
-              },
-              {
-                "name": "Prestige",
-                "value":["prune"]
-              },
-              {
-                "name": "Wild",
-                "value":["ducky"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-        
-           ]
-        },
-        {
-          "itemImage": "kitty5",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "jako Defukuo",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.015",
-          "updateDate" : "2006-01-14 10:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "10"
-              },
-              {
-                "name": "Generation",
-                "value": "19"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["babypuke"]
-              },
-              {
-                "name": "body",
-                "value": ["highlander"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["harbourfog", "dragonfruit"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["peppermint", "swampgreen", "pearl"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["purplehaze", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["myparade"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["sweetmeloncakes"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Purrzival", "Pizzazz"]
-              },
-              {
-                "name": "Mouth",
-                "value":["confuzzled"]
-              },
-              {
-                "name": "Pattern",
-                "value":["totesbasic", "spangled"]
-              },
-              {
-                "name": "Prestige",
-                "value":[]
-              },
-              {
-                "name": "Wild",
-                "value":["foghornpawhorn"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty6",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Mako Defukuo",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.154",
-          "updateDate" : "2016-01-04 10:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "4"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["pumpkin"]
-              },
-              {
-                "name": "body",
-                "value": ["chartreux"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["cloudwhite", "aquamarine"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["egyptiankohl", "universe"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["purplehaze", "hanauma"]
-              },
-              {
-                "name": "Environment",
-                "value":["juju"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["crazy"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Purrzival", "Pizzazz"]
-              },
-              {
-                "name": "Mouth",
-                "value":["confuzzled"]
-              },
-              {
-                "name": "Pattern",
-                "value":["totesbasic", "spangled"]
-              },
-              {
-                "name": "Prestige",
-                "value":[]
-              },
-              {
-                "name": "Wild",
-                "value":["foghornpawhorn"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty7",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "Sofa Dekoe",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.165",
-          "updateDate" : "2006-01-04 10:34:53",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "1"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["kaleidoscope"]
-              },
-              {
-                "name": "body",
-                "value": ["ragdoll"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["onyx", "glacier"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["egyptiankohl", "universe"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["garnet", "inflatablepool"]
-              },
-              {
-                "name": "Environment",
-                "value":["floorislava"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["DJMeowlody", "Glasswalker"]
-              },
-              {
-                "name": "Mouth",
-                "value":["moue"]
-              },
-              {
-                "name": "Pattern",
-                "value":["tigerpunk", "gyre"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["dragontail"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty8",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "Rara nana",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.415",
-          "updateDate" : "2006-01-14 11:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "4"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["pumpkin"]
-              },
-              {
-                "name": "body",
-                "value": ["chartreux"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["cloudwhite", "aquamarine"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["egyptiankohl", "universe"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["purplehaze", "hanauma"]
-              },
-              {
-                "name": "Environment",
-                "value":["juju"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["DJMeowlody", "Glasswalker"]
-              },
-              {
-                "name": "Mouth",
-                "value":["moue"]
-              },
-              {
-                "name": "Pattern",
-                "value":["tigerpunk", "gyre"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["dragontail"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty2",
-          "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Rara Dekoe",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.155",
-          "updateDate" : "2008-01-04 10:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "1"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["kaleidoscope"]
-              },
-              {
-                "name": "body",
-                "value": ["ragdoll"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["onyx", "glacier"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["egyptiankohl", "universe"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["garnet", "inflatablepool"]
-              },
-              {
-                "name": "Environment",
-                "value":["floorislava"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["sweetmeloncakes"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Purrzival", "Pizzazz"]
-              },
-              {
-                "name": "Mouth",
-                "value":["confuzzled"]
-              },
-              {
-                "name": "Pattern",
-                "value":["totesbasic", "spangled"]
-              },
-              {
-                "name": "Prestige",
-                "value":[]
-              },
-              {
-                "name": "Wild",
-                "value":["foghornpawhorn"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty1",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Sofa Delin",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.315",
-          "updateDate" : "2006-01-04 10:32:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "7"
-              },
-              {
-                "name": "Generation",
-                "value": "9"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["eclipse"]
-              },
-              {
-                "name": "body",
-                "value": ["fox"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["lavender", "cornflower", "hintomint"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["poisonberry", "mertail"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["morningglory", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["prism"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":["exclusive"]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["TallyThePurrocious", "KittyFormerlyKnownAsPrince"]
-              },
-              {
-                "name": "Mouth",
-                "value":["cheeky"]
-              },
-              {
-                "name": "Pattern",
-                "value":["rorschach", "calicool"]
-              },
-              {
-                "name": "Prestige",
-                "value":["prune"]
-              },
-              {
-                "name": "Wild",
-                "value":["ducky"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty3",
-          "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Sofa Rara",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.2015",
-          "updateDate" : "2006-01-04 9:34:20",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "7"
-              },
-              {
-                "name": "Generation",
-                "value": "9"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["eclipse"]
-              },
-              {
-                "name": "body",
-                "value": ["fox"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["lavender", "cornflower", "hintomint"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["poisonberry", "mertail"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["morningglory", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["prism"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":["exclusive"]
-              },
-              {
-                "name": "Eyes",
-                "value":["wiley"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Shoopadoop", "Mars", "Meuwn"]
-              },
-              {
-                "name": "Mouth",
-                "value":["samwise"]
-              },
-              {
-                "name": "Pattern",
-                "value":["dippedcone", "calicool"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["wyrm"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty4",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "ic_drawer",
-          "itemName": "Sofra Deleo",
-          "tokenImage": "",
-          "tokenValue": "0.4015",
-          "updateDate" : "2006-01-02 10:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "10"
-              },
-              {
-                "name": "Generation",
-                "value": "19"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["babypuke"]
-              },
-              {
-                "name": "body",
-                "value": ["highlander"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["harbourfog", "dragonfruit"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["peppermint", "swampgreen", "pearl"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["purplehaze", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["myparade"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["DJMeowlody", "Glasswalker"]
-              },
-              {
-                "name": "Mouth",
-                "value":["moue"]
-              },
-              {
-                "name": "Pattern",
-                "value":["tigerpunk", "gyre"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["dragontail"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty6",
-          "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Sofra Koe",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.9015",
-          "updateDate" : "2007-01-04 10:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "1"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["kaleidoscope"]
-              },
-              {
-                "name": "body",
-                "value": ["ragdoll"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["onyx", "glacier"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["egyptiankohl", "universe"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["garnet", "inflatablepool"]
-              },
-              {
-                "name": "Environment",
-                "value":["floorislava"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["crazy"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Purrzival", "Pizzazz"]
-              },
-              {
-                "name": "Mouth",
-                "value":["confuzzled"]
-              },
-              {
-                "name": "Pattern",
-                "value":["totesbasic", "spangled"]
-              },
-              {
-                "name": "Prestige",
-                "value":[]
-              },
-              {
-                "name": "Wild",
-                "value":["foghornpawhorn"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty5",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Sora Koeo",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.8015",
-          "updateDate" : "2007-01-04 10:34:43",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "1"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["kaleidoscope"]
-              },
-              {
-                "name": "body",
-                "value": ["ragdoll"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["onyx", "glacier"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["egyptiankohl", "universe"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["garnet", "inflatablepool"]
-              },
-              {
-                "name": "Environment",
-                "value":["floorislava"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["crazy"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Purrzival", "Pizzazz"]
-              },
-              {
-                "name": "Mouth",
-                "value":["confuzzled"]
-              },
-              {
-                "name": "Pattern",
-                "value":["totesbasic", "spangled"]
-              },
-              {
-                "name": "Prestige",
-                "value":[]
-              },
-              {
-                "name": "Wild",
-                "value":["foghornpawhorn"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty7",
-          "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "Sora Koeo",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.7015",
-          "updateDate" : "2007-01-04 11:34:23",
-          "owner": "perfectsoul",
-          "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "10"
-              },
-              {
-                "name": "Generation",
-                "value": "19"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["babypuke"]
-              },
-              {
-                "name": "body",
-                "value": ["highlander"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["harbourfog", "dragonfruit"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["peppermint", "swampgreen", "pearl"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["purplehaze", "kittencream"]
-              },
-              {
-                "name": "Environment",
-                "value":["myparade"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":["exclusive"]
-              },
-              {
-                "name": "Eyes",
-                "value":["wiley"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Shoopadoop", "Mars", "Meuwn"]
-              },
-              {
-                "name": "Mouth",
-                "value":["samwise"]
-              },
-              {
-                "name": "Pattern",
-                "value":["dippedcone", "calicool"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["wyrm"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
-          ]
-        },
-        {
-          "itemImage": "kitty8",
-          "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
-          "itemAddress": "#12355645554845452121211212",
-          "itemName": "Rara Delinana",
-          "tokenImage": "ic_drawer",
-          "tokenValue": "0.5015",
-          "updateDate" : "2007-01-04 10:24:23",
+          "updateDate": "2020-01-04 10:34:03",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "2"
+              "value": "9"
+            },
+            {
+              "name": "Generation",
+              "value": "3"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "chestnut"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "manx",
+                "liger",
+                "siberian"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "greymatter",
+                "cinderella"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "lilac",
+                "violet"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "kalahari",
+                "missmuffett",
+                "chocolate"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "jacked"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "stunned"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Chitten",
+                "DocPurr",
+                "LilBUB"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "grim"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "tiger",
+                "spock"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "prune"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "elk"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty3",
+          "itemSalesValue": "notForSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "Raja Delekuo",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0",
+          "updateDate": "2020-01-04 10:36:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "2"
             },
             {
               "name": "Generation",
@@ -2151,230 +1218,1714 @@
             },
             {
               "name": "Color Eye",
-              "value": ["bubblegum"]
+              "value": [
+                "bubblegum"
+              ]
             },
             {
               "name": "body",
-              "value": ["cymric", "kurilian", "sphynx"]
+              "value": [
+                "cymric",
+                "kurilian",
+                "sphynx"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["orangesoda", "shamrock", "hintomint"]
+              "value": [
+                "orangesoda",
+                "shamrock",
+                "hintomint"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["poisonberry", "mertail"]
+              "value": [
+                "poisonberry",
+                "mertail"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["morningglory", "kittencream"]
+              "value": [
+                "morningglory",
+                "kittencream"
+              ]
             },
             {
               "name": "Environment",
-              "value":["prism"]
+              "value": [
+                "prism"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["crazy"]
+              "value": [
+                "googly"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Purrzival", "Pizzazz"]
+              "value": [
+                "TallyThePurrocious",
+                "KittyFormerlyKnownAsPrince"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["confuzzled"]
+              "value": [
+                "cheeky"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["totesbasic", "spangled"]
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":[]
+              "value": [
+                "prune"
+              ]
             },
             {
               "name": "Wild",
-              "value":["foghornpawhorn"]
+              "value": [
+                "ducky"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
-          "itemImage": "kitty7",
+          "itemImage": "kitty4",
           "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
-          "itemName": "Sora Koeo",
+          "itemName": "Jaja Dekuo",
           "tokenImage": "ic_drawer",
           "tokenValue": "0",
-          "updateDate" : "2007-01-02 10:34:23",
+          "updateDate": "2020-01-04 11:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "9"
+              "value": "7"
             },
             {
               "name": "Generation",
-              "value": "3"
+              "value": "9"
             },
             {
               "name": "Color Eye",
-              "value": ["chestnut"]
+              "value": [
+                "eclipse"
+              ]
             },
             {
               "name": "body",
-              "value": ["manx", "liger", "siberian"]
+              "value": [
+                "fox"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["greymatter", "cinderella"]
+              "value": [
+                "lavender",
+                "cornflower",
+                "hintomint"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["lilac", "violet"]
+              "value": [
+                "poisonberry",
+                "mertail"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["kalahari", "missmuffett", "chocolate"]
+              "value": [
+                "morningglory",
+                "kittencream"
+              ]
             },
             {
               "name": "Environment",
-              "value":["jacked"]
+              "value": [
+                "prism"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":["exclusive"]
+              "value": [
+                "exclusive"
+              ]
             },
             {
               "name": "Eyes",
-              "value":["wiley"]
+              "value": [
+                "googly"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Shoopadoop", "Mars", "Meuwn"]
+              "value": [
+                "TallyThePurrocious",
+                "KittyFormerlyKnownAsPrince"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["samwise"]
+              "value": [
+                "cheeky"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["dippedcone", "calicool"]
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "prune"
+              ]
             },
             {
               "name": "Wild",
-              "value":["wyrm"]
+              "value": [
+                "ducky"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty5",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "jako Defukuo",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.015",
+          "updateDate": "2020-01-14 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "10"
+            },
+            {
+              "name": "Generation",
+              "value": "19"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "babypuke"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "highlander"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "harbourfog",
+                "dragonfruit"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "peppermint",
+                "swampgreen",
+                "pearl"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "purplehaze",
+                "kittencream"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "myparade"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "sweetmeloncakes"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "confuzzled"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": []
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "foghornpawhorn"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty6",
-          "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
-          "itemAddress": "",
-          "itemName": "Sofa Rara",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Mako Defukuo",
           "tokenImage": "ic_drawer",
-          "tokenValue": "0",
-          "updateDate" : "2007-03-04 10:34:23",
+          "tokenValue": "0.154",
+          "updateDate": "2020-01-04 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "9"
+              "value": "4"
             },
             {
               "name": "Generation",
-              "value": "3"
+              "value": "12"
             },
             {
               "name": "Color Eye",
-              "value": ["chestnut"]
+              "value": [
+                "pumpkin"
+              ]
             },
             {
               "name": "body",
-              "value": ["manx", "liger", "siberian"]
+              "value": [
+                "chartreux"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["greymatter", "cinderella"]
+              "value": [
+                "cloudwhite",
+                "aquamarine"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["lilac", "violet"]
+              "value": [
+                "egyptiankohl",
+                "universe"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["kalahari", "missmuffett", "chocolate"]
+              "value": [
+                "purplehaze",
+                "hanauma"
+              ]
             },
             {
               "name": "Environment",
-              "value":["jacked"]
+              "value": [
+                "juju"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":["exclusive"]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["crazy"]
+              "value": [
+                "crazy"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Purrzival", "Pizzazz"]
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["confuzzled"]
+              "value": [
+                "confuzzled"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["totesbasic", "spangled"]
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
             },
             {
               "name": "Prestige",
-              "value":[]
+              "value": []
             },
             {
               "name": "Wild",
-              "value":["foghornpawhorn"]
+              "value": [
+                "foghornpawhorn"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty7",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "Sofa Dekoe",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.165",
+          "updateDate": "2020-01-04 10:34:53",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "1"
+            },
+            {
+              "name": "Generation",
+              "value": "12"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "kaleidoscope"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "ragdoll"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "onyx",
+                "glacier"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "egyptiankohl",
+                "universe"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "garnet",
+                "inflatablepool"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "floorislava"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "googly"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "DJMeowlody",
+                "Glasswalker"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "moue"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "tigerpunk",
+                "gyre"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "dragontail"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty8",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "Rara nana",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.415",
+          "updateDate": "2020-01-14 11:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "4"
+            },
+            {
+              "name": "Generation",
+              "value": "12"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "pumpkin"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "chartreux"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "cloudwhite",
+                "aquamarine"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "egyptiankohl",
+                "universe"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "purplehaze",
+                "hanauma"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "juju"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "googly"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "DJMeowlody",
+                "Glasswalker"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "moue"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "tigerpunk",
+                "gyre"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "dragontail"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty2",
+          "itemSalesValue": "Auction",
+          "auctionLimitDate": "2020-03-08 10:45:56",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Rara Dekoe",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.155",
+          "updateDate": "2020-01-04 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "1"
+            },
+            {
+              "name": "Generation",
+              "value": "12"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "kaleidoscope"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "ragdoll"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "onyx",
+                "glacier"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "egyptiankohl",
+                "universe"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "garnet",
+                "inflatablepool"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "floorislava"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "sweetmeloncakes"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "confuzzled"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": []
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "foghornpawhorn"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty1",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Sofa Delin",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.315",
+          "updateDate": "2020-01-04 10:32:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "7"
+            },
+            {
+              "name": "Generation",
+              "value": "9"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "eclipse"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "fox"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "lavender",
+                "cornflower",
+                "hintomint"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "poisonberry",
+                "mertail"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "morningglory",
+                "kittencream"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "prism"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "googly"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "TallyThePurrocious",
+                "KittyFormerlyKnownAsPrince"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "cheeky"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "prune"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "ducky"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty3",
+          "itemSalesValue": "Auction",
+          "auctionLimitDate": "2020-03-05 9:34:20",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Sofa Rara",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.2015",
+          "updateDate": "2020-01-04 9:34:20",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "7"
+            },
+            {
+              "name": "Generation",
+              "value": "9"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "eclipse"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "fox"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "lavender",
+                "cornflower",
+                "hintomint"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "poisonberry",
+                "mertail"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "morningglory",
+                "kittencream"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "prism"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "wiley"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Shoopadoop",
+                "Mars",
+                "Meuwn"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "samwise"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "dippedcone",
+                "calicool"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "wyrm"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty4",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "ic_drawer",
+          "itemName": "Sofra Deleo",
+          "tokenImage": "",
+          "tokenValue": "0.4015",
+          "updateDate": "2020-01-02 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "10"
+            },
+            {
+              "name": "Generation",
+              "value": "19"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "babypuke"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "highlander"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "harbourfog",
+                "dragonfruit"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "peppermint",
+                "swampgreen",
+                "pearl"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "purplehaze",
+                "kittencream"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "myparade"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "googly"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "DJMeowlody",
+                "Glasswalker"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "moue"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "tigerpunk",
+                "gyre"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "dragontail"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty6",
+          "itemSalesValue": "Auction",
+          "auctionLimitDate": "2020-03-10 10:45:56",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Sofra Koe",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.9015",
+          "updateDate": "2020-01-04 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "1"
+            },
+            {
+              "name": "Generation",
+              "value": "12"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "kaleidoscope"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "ragdoll"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "onyx",
+                "glacier"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "egyptiankohl",
+                "universe"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "garnet",
+                "inflatablepool"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "floorislava"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "crazy"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "confuzzled"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": []
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "foghornpawhorn"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty5",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Sora Koeo",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.8015",
+          "updateDate": "2020-01-04 10:34:43",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "1"
+            },
+            {
+              "name": "Generation",
+              "value": "12"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "kaleidoscope"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "ragdoll"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "onyx",
+                "glacier"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "egyptiankohl",
+                "universe"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "garnet",
+                "inflatablepool"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "floorislava"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "crazy"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "confuzzled"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": []
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "foghornpawhorn"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty7",
+          "itemSalesValue": "onSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "Sora Koeo",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.7015",
+          "updateDate": "2020-01-04 11:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "10"
+            },
+            {
+              "name": "Generation",
+              "value": "19"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "babypuke"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "highlander"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "harbourfog",
+                "dragonfruit"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "peppermint",
+                "swampgreen",
+                "pearl"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "purplehaze",
+                "kittencream"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "myparade"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "wiley"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Shoopadoop",
+                "Mars",
+                "Meuwn"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "samwise"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "dippedcone",
+                "calicool"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "wyrm"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty8",
           "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
+          "auctionLimitDate": "2020-03-07 10:45:56",
           "itemAddress": "#12355645554845452121211212",
-          "itemName": "Sofa Rara",
+          "itemName": "Rara Delinana",
           "tokenImage": "ic_drawer",
-          "tokenValue": "0.015",
-          "updateDate" : "2007-05-04 10:34:23",
+          "tokenValue": "0.5015",
+          "updateDate": "2020-01-04 10:24:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "12"
+              "value": "2"
+            },
+            {
+              "name": "Generation",
+              "value": "1"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "bubblegum"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "cymric",
+                "kurilian",
+                "sphynx"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "orangesoda",
+                "shamrock",
+                "hintomint"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "poisonberry",
+                "mertail"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "morningglory",
+                "kittencream"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "prism"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "crazy"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "confuzzled"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": []
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "foghornpawhorn"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty7",
+          "itemSalesValue": "notForSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "Sora Koeo",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0",
+          "updateDate": "2020-01-02 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "9"
+            },
+            {
+              "name": "Generation",
+              "value": "3"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "chestnut"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "manx",
+                "liger",
+                "siberian"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "greymatter",
+                "cinderella"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "lilac",
+                "violet"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "kalahari",
+                "missmuffett",
+                "chocolate"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "jacked"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "wiley"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Shoopadoop",
+                "Mars",
+                "Meuwn"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "samwise"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "dippedcone",
+                "calicool"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "wyrm"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty6",
+          "itemSalesValue": "notForSale",
+          "auctionLimitDate": "",
+          "itemAddress": "",
+          "itemName": "Sofa Rara",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0",
+          "updateDate": "2020-03-04 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "9"
+            },
+            {
+              "name": "Generation",
+              "value": "3"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "chestnut"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "manx",
+                "liger",
+                "siberian"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "greymatter",
+                "cinderella"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "lilac",
+                "violet"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "kalahari",
+                "missmuffett",
+                "chocolate"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "jacked"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "crazy"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Pizzazz"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "confuzzled"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "totesbasic",
+                "spangled"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": []
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "foghornpawhorn"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
+          ]
+        },
+        {
+          "itemImage": "kitty8",
+          "itemSalesValue": "Auction",
+          "auctionLimitDate": "2020-03-11 10:45:56",
+          "itemAddress": "#12355645554845452121211212",
+          "itemName": "Sofa Rara",
+          "tokenImage": "ic_drawer",
+          "tokenValue": "0.015",
+          "updateDate": "2020-03-04 10:34:23",
+          "owner": "perfectsoul",
+          "property": [
+            {
+              "name": "Cooldown Index",
+              "value": "12"
             },
             {
               "name": "Generation",
@@ -2382,76 +2933,109 @@
             },
             {
               "name": "Color Eye",
-              "value": ["Cyan"]
+              "value": [
+                "Cyan"
+              ]
             },
             {
               "name": "body",
-              "value": ["birman", "lynx", "chantilly"]
+              "value": [
+                "birman",
+                "lynx",
+                "chantilly"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["hyacinth", "tundra", "cinderella"]
+              "value": [
+                "hyacinth",
+                "tundra",
+                "cinderella"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["coffee", "scarlet"]
+              "value": [
+                "coffee",
+                "scarlet"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "perwinkle", "peach"]
+              "value": [
+                "daffodil",
+                "perwinkle",
+                "peach"
+              ]
             },
             {
               "name": "Environment",
-              "value":["salty"]
+              "value": [
+                "salty"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["googly"]
+              "value": [
+                "googly"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["TallyThePurrocious", "KittyFormerlyKnownAsPrince"]
+              "value": [
+                "TallyThePurrocious",
+                "KittyFormerlyKnownAsPrince"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["cheeky"]
+              "value": [
+                "cheeky"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["rorschach", "calicool"]
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["prune"]
+              "value": [
+                "prune"
+              ]
             },
             {
               "name": "Wild",
-              "value":["ducky"]
+              "value": [
+                "ducky"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty5",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Rara Delinana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0165",
-          "updateDate" : "2007-07-04 10:34:23",
+          "updateDate": "2020-02-04 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "8"
+              "value": "8"
             },
             {
               "name": "Generation",
@@ -2459,76 +3043,109 @@
             },
             {
               "name": "Color Eye",
-              "value": ["Cyan"]
+              "value": [
+                "Cyan"
+              ]
             },
             {
               "name": "body",
-              "value": ["birman", "lynx", "chantilly"]
+              "value": [
+                "birman",
+                "lynx",
+                "chantilly"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["hyacinth", "tundra", "cinderella"]
+              "value": [
+                "hyacinth",
+                "tundra",
+                "cinderella"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["coffee", "scarlet"]
+              "value": [
+                "coffee",
+                "scarlet"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "perwinkle", "peach"]
+              "value": [
+                "daffodil",
+                "perwinkle",
+                "peach"
+              ]
             },
             {
               "name": "Environment",
-              "value":["salty"]
+              "value": [
+                "salty"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["fabulous"]
+              "value": [
+                "fabulous"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Jack", "DracoTheMagnificent"]
+              "value": [
+                "Jack",
+                "DracoTheMagnificent"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["cheeky"]
+              "value": [
+                "cheeky"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["rorschach", "calicool"]
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["prune"]
+              "value": [
+                "prune"
+              ]
             },
             {
               "name": "Wild",
-              "value":["ducky"]
+              "value": [
+                "ducky"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty4",
           "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Rara Delin",
           "tokenImage": "ic_drawer",
           "tokenValue": "0",
-          "updateDate" : "2007-08-04 10:34:23",
+          "updateDate": "2020-01-04 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "2"
+              "value": "2"
             },
             {
               "name": "Generation",
@@ -2536,76 +3153,109 @@
             },
             {
               "name": "Color Eye",
-              "value": ["gemini"]
+              "value": [
+                "gemini"
+              ]
             },
             {
               "name": "body",
-              "value": ["munchkin", "selkirk", "chantilly"]
+              "value": [
+                "munchkin",
+                "selkirk",
+                "chantilly"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["hyacinth", "tundra", "mauveover"]
+              "value": [
+                "hyacinth",
+                "tundra",
+                "mauveover"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["padparadscha", "scarlet"]
+              "value": [
+                "padparadscha",
+                "scarlet"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "sandalwood", "peach"]
+              "value": [
+                "daffodil",
+                "sandalwood",
+                "peach"
+              ]
             },
             {
               "name": "Environment",
-              "value":["floorislava"]
+              "value": [
+                "floorislava"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["fabulous"]
+              "value": [
+                "fabulous"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Jack", "DracoTheMagnificent"]
+              "value": [
+                "Jack",
+                "DracoTheMagnificent"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["cheeky"]
+              "value": [
+                "cheeky"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["rorschach", "calicool"]
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["prune"]
+              "value": [
+                "prune"
+              ]
             },
             {
               "name": "Wild",
-              "value":["ducky"]
+              "value": [
+                "ducky"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty3",
           "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
+          "auctionLimitDate": "2020-03-11 10:45:56",
           "itemAddress": "#12355645554845452121211212",
           "itemName": "Rara Delana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0155",
-          "updateDate" : "2007-01-10 10:34:23",
+          "updateDate": "2020-01-10 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "2"
+              "value": "2"
             },
             {
               "name": "Generation",
@@ -2613,76 +3263,107 @@
             },
             {
               "name": "Color Eye",
-              "value": ["gemini"]
+              "value": [
+                "gemini"
+              ]
             },
             {
               "name": "body",
-              "value": ["munchkin", "selkirk", "chantilly"]
+              "value": [
+                "munchkin",
+                "selkirk",
+                "chantilly"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["hyacinth", "tundra", "mauveover"]
+              "value": [
+                "hyacinth",
+                "tundra",
+                "mauveover"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["padparadscha", "scarlet"]
+              "value": [
+                "padparadscha",
+                "scarlet"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "sandalwood", "peach"]
+              "value": [
+                "daffodil",
+                "sandalwood",
+                "peach"
+              ]
             },
             {
               "name": "Environment",
-              "value":["floorislava"]
+              "value": [
+                "floorislava"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["firedup"]
+              "value": [
+                "firedup"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Jack", "Furlin"]
+              "value": [
+                "Jack",
+                "Furlin"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["ruhroh"]
+              "value": [
+                "ruhroh"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["rorschach", "allyouneed"]
+              "value": [
+                "rorschach",
+                "allyouneed"
+              ]
             },
             {
               "name": "Prestige",
-              "value":[]
+              "value": []
             },
             {
               "name": "Wild",
-              "value":["littlefoot"]
+              "value": [
+                "littlefoot"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty2",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Sofa Delinana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0185",
-          "updateDate" : "2007-01-18 10:34:23",
+          "updateDate": "2020-01-18 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "2"
+              "value": "2"
             },
             {
               "name": "Generation",
@@ -2690,153 +3371,217 @@
             },
             {
               "name": "Color Eye",
-              "value": ["gemini"]
+              "value": [
+                "gemini"
+              ]
             },
             {
               "name": "body",
-              "value": ["munchkin", "selkirk", "chantilly"]
+              "value": [
+                "munchkin",
+                "selkirk",
+                "chantilly"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["hyacinth", "tundra", "mauveover"]
+              "value": [
+                "hyacinth",
+                "tundra",
+                "mauveover"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["padparadscha", "scarlet"]
+              "value": [
+                "padparadscha",
+                "scarlet"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "sandalwood", "peach"]
+              "value": [
+                "daffodil",
+                "sandalwood",
+                "peach"
+              ]
             },
             {
               "name": "Environment",
-              "value":["floorislava"]
+              "value": [
+                "floorislava"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["drama"]
+              "value": [
+                "drama"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Gale", "Berry"]
+              "value": [
+                "Gale",
+                "Berry"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["ruhroh"]
+              "value": [
+                "ruhroh"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["rorschach", "allyouneed"]
+              "value": [
+                "rorschach",
+                "allyouneed"
+              ]
             },
             {
               "name": "Prestige",
-              "value":[]
+              "value": []
             },
             {
               "name": "Wild",
-              "value":["littlefoot"]
+              "value": [
+                "littlefoot"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty1",
           "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Sofa Delin",
           "tokenImage": "ic_drawer",
           "tokenValue": "0",
-          "updateDate" : "2017-01-04 10:34:23",
+          "updateDate": "2020-01-04 10:34:23",
           "owner": "perfectsoul",
           "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "3"
-              },
-              {
-                "name": "Generation",
-                "value": "12"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["kaleidoscope"]
-              },
-              {
-                "name": "body",
-                "value": ["mainecoon", "sphynx", "norwegianforest"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["redvelvet", "cottoncandy", "cinderella"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["coffee", "turtleback"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["daffodil", "purplehaze", "peach"]
-              },
-              {
-                "name": "Environment",
-                "value":["roadtogold"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["googly"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["TallyThePurrocious", "KittyFormerlyKnownAsPrince"]
-              },
-              {
-                "name": "Mouth",
-                "value":["cheeky"]
-              },
-              {
-                "name": "Pattern",
-                "value":["rorschach", "calicool"]
-              },
-              {
-                "name": "Prestige",
-                "value":["prune"]
-              },
-              {
-                "name": "Wild",
-                "value":["ducky"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
+            {
+              "name": "Cooldown Index",
+              "value": "3"
+            },
+            {
+              "name": "Generation",
+              "value": "12"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "kaleidoscope"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "mainecoon",
+                "sphynx",
+                "norwegianforest"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "redvelvet",
+                "cottoncandy",
+                "cinderella"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "coffee",
+                "turtleback"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "daffodil",
+                "purplehaze",
+                "peach"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "roadtogold"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "googly"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "TallyThePurrocious",
+                "KittyFormerlyKnownAsPrince"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "cheeky"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "prune"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "ducky"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
           ]
         },
         {
           "itemImage": "kitty3",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Jaja Delinana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0195",
-          "updateDate" : "2017-01-04 10:34:54",
+          "updateDate": "2020-01-04 10:34:54",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "4"
+              "value": "4"
             },
             {
               "name": "Generation",
@@ -2844,153 +3589,215 @@
             },
             {
               "name": "Color Eye",
-              "value": ["kaleidoscope"]
+              "value": [
+                "kaleidoscope"
+              ]
             },
             {
               "name": "body",
-              "value": ["mainecoon", "sphynx", "norwegianforest"]
+              "value": [
+                "mainecoon",
+                "sphynx",
+                "norwegianforest"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["redvelvet", "cinderella"]
+              "value": [
+                "redvelvet",
+                "cinderella"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["coffee", "turtleback"]
+              "value": [
+                "coffee",
+                "turtleback"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["daffodil", "purplehaze"]
+              "value": [
+                "daffodil",
+                "purplehaze"
+              ]
             },
             {
               "name": "Environment",
-              "value":["roadtogold"]
+              "value": [
+                "roadtogold"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["otaku"]
+              "value": [
+                "otaku"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Sparkles", "DJMeowlody"]
+              "value": [
+                "Sparkles",
+                "DJMeowlody"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["cheeky"]
+              "value": [
+                "cheeky"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["rorschach", "calicool"]
+              "value": [
+                "rorschach",
+                "calicool"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["prune"]
+              "value": [
+                "prune"
+              ]
             },
             {
               "name": "Wild",
-              "value":["ducky"]
+              "value": [
+                "ducky"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty2",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Jaja Delin",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.6015",
-          "updateDate" : "2017-01-04 10:45:23",
+          "updateDate": "2020-01-04 10:45:23",
           "owner": "perfectsoul",
           "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "4"
-              },
-              {
-                "name": "Generation",
-                "value": "11"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["kaleidoscope"]
-              },
-              {
-                "name": "body",
-                "value": ["mainecoon", "sphynx", "norwegianforest"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["redvelvet", "cinderella"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["coffee", "turtleback"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["daffodil", "purplehaze"]
-              },
-              {
-                "name": "Environment",
-                "value":["roadtogold"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":[]
-              },
-              {
-                "name": "Eyes",
-                "value":["otaku"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Dreggo", "DracoTheMagnificent"]
-              },
-              {
-                "name": "Mouth",
-                "value":["cheeky"]
-              },
-              {
-                "name": "Pattern",
-                "value":["jaguar", "tiger"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["flapflap"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
+            {
+              "name": "Cooldown Index",
+              "value": "4"
+            },
+            {
+              "name": "Generation",
+              "value": "11"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "kaleidoscope"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "mainecoon",
+                "sphynx",
+                "norwegianforest"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "redvelvet",
+                "cinderella"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "coffee",
+                "turtleback"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "daffodil",
+                "purplehaze"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "roadtogold"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": []
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "otaku"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Dreggo",
+                "DracoTheMagnificent"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "cheeky"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "jaguar",
+                "tiger"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "flapflap"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
           ]
         },
         {
           "itemImage": "kitty4",
           "itemSalesValue": "notForSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Jaja Delana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0",
-          "updateDate" : "2001-01-04 10:34:23",
+          "updateDate": "2020-01-04 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "5"
+              "value": "5"
             },
             {
               "name": "Generation",
@@ -2998,76 +3805,107 @@
             },
             {
               "name": "Color Eye",
-              "value": ["kaleidoscope"]
+              "value": [
+                "kaleidoscope"
+              ]
             },
             {
               "name": "body",
-              "value": ["mainecoon", "sphynx", "norwegianforest"]
+              "value": [
+                "mainecoon",
+                "sphynx",
+                "norwegianforest"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["redvelvet", "cinderella"]
+              "value": [
+                "redvelvet",
+                "cinderella"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["coffee", "turtleback"]
+              "value": [
+                "coffee",
+                "turtleback"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["sully", "shale"]
+              "value": [
+                "sully",
+                "shale"
+              ]
             },
             {
               "name": "Environment",
-              "value":["myparade"]
+              "value": [
+                "myparade"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":[]
+              "value": []
             },
             {
               "name": "Eyes",
-              "value":["otaku"]
+              "value": [
+                "otaku"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Dreggo", "DracoTheMagnificent"]
+              "value": [
+                "Dreggo",
+                "DracoTheMagnificent"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["belch"]
+              "value": [
+                "belch"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["jaguar", "tiger"]
+              "value": [
+                "jaguar",
+                "tiger"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "furball"
+              ]
             },
             {
               "name": "Wild",
-              "value":["flapflap"]
+              "value": [
+                "flapflap"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty5",
           "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
+          "auctionLimitDate": "2020-03-19 10:45:56",
           "itemAddress": "#12355645554845452121211212",
           "itemName": "Juka Delinana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0158",
-          "updateDate" : "2001-01-14 10:34:23",
+          "updateDate": "2020-01-14 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "5"
+              "value": "5"
             },
             {
               "name": "Generation",
@@ -3075,153 +3913,218 @@
             },
             {
               "name": "Color Eye",
-              "value": ["kaleidoscope"]
+              "value": [
+                "kaleidoscope"
+              ]
             },
             {
               "name": "body",
-              "value": ["mainecoon", "sphynx", "norwegianforest"]
+              "value": [
+                "mainecoon",
+                "sphynx",
+                "norwegianforest"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["orangesoda", "harbourfog"]
+              "value": [
+                "orangesoda",
+                "harbourfog"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["coffee", "turtleback"]
+              "value": [
+                "coffee",
+                "turtleback"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["sully", "shale"]
+              "value": [
+                "sully",
+                "shale"
+              ]
             },
             {
               "name": "Environment",
-              "value":["myparade"]
+              "value": [
+                "myparade"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":["exclusive"]
+              "value": [
+                "exclusive"
+              ]
             },
             {
               "name": "Eyes",
-              "value":["wowza"]
+              "value": [
+                "wowza"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Dreggo", "DracoTheMagnificent"]
+              "value": [
+                "Dreggo",
+                "DracoTheMagnificent"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["belch"]
+              "value": [
+                "belch"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["jaguar", "tiger"]
+              "value": [
+                "jaguar",
+                "tiger"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "furball"
+              ]
             },
             {
               "name": "Wild",
-              "value":["flapflap"]
+              "value": [
+                "flapflap"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty6",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Kuka Delin",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0156",
-          "updateDate" : "2001-01-02 10:34:23",
+          "updateDate": "2020-01-02 10:34:23",
           "owner": "perfectsoul",
           "property": [
-              {
-                "name": "Cooldown Index",
-                "value":  "9"
-              },
-              {
-                "name": "Generation",
-                "value": "3"
-              },
-              {
-                "name": "Color Eye",
-                "value": ["dahlia"]
-              },
-              {
-                "name": "body",
-                "value": ["chartreux", "cymric"]
-              },
-              {
-                "name": "Color Primary",
-                "value": ["oldlace", "aquamarine"]
-              },
-              {
-                "name": "Color Secondary",
-                "value":["sandalwood", "turtleback"]
-              },
-              {
-                "name": "Color Tertiary",
-                "value":["sully", "shale"]
-              },
-              {
-                "name": "Environment",
-                "value":["myparade"]
-              },
-              {
-                "name": "Exclusivity",
-                "value":["exclusive"]
-              },
-              {
-                "name": "Eyes",
-                "value":["wowza"]
-              },
-              {
-                "name": "Fancy Type",
-                "value":["Purrzival", "Aeoncat"]
-              },
-              {
-                "name": "Mouth",
-                "value":["yokel"]
-              },
-              {
-                "name": "Pattern",
-                "value":["jaguar", "tiger"]
-              },
-              {
-                "name": "Prestige",
-                "value":["furball"]
-              },
-              {
-                "name": "Wild",
-                "value":["flapflap"]
-              },
-              {
-                "name": "Description",
-                "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
-              }
+            {
+              "name": "Cooldown Index",
+              "value": "9"
+            },
+            {
+              "name": "Generation",
+              "value": "3"
+            },
+            {
+              "name": "Color Eye",
+              "value": [
+                "dahlia"
+              ]
+            },
+            {
+              "name": "body",
+              "value": [
+                "chartreux",
+                "cymric"
+              ]
+            },
+            {
+              "name": "Color Primary",
+              "value": [
+                "oldlace",
+                "aquamarine"
+              ]
+            },
+            {
+              "name": "Color Secondary",
+              "value": [
+                "sandalwood",
+                "turtleback"
+              ]
+            },
+            {
+              "name": "Color Tertiary",
+              "value": [
+                "sully",
+                "shale"
+              ]
+            },
+            {
+              "name": "Environment",
+              "value": [
+                "myparade"
+              ]
+            },
+            {
+              "name": "Exclusivity",
+              "value": [
+                "exclusive"
+              ]
+            },
+            {
+              "name": "Eyes",
+              "value": [
+                "wowza"
+              ]
+            },
+            {
+              "name": "Fancy Type",
+              "value": [
+                "Purrzival",
+                "Aeoncat"
+              ]
+            },
+            {
+              "name": "Mouth",
+              "value": [
+                "yokel"
+              ]
+            },
+            {
+              "name": "Pattern",
+              "value": [
+                "jaguar",
+                "tiger"
+              ]
+            },
+            {
+              "name": "Prestige",
+              "value": [
+                "furball"
+              ]
+            },
+            {
+              "name": "Wild",
+              "value": [
+                "flapflap"
+              ]
+            },
+            {
+              "name": "Description",
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+            }
           ]
         },
         {
           "itemImage": "kitty7",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Kuka linana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0151",
-          "updateDate" : "2001-01-18 10:34:23",
+          "updateDate": "2020-01-18 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "12"
+              "value": "12"
             },
             {
               "name": "Generation",
@@ -3229,76 +4132,108 @@
             },
             {
               "name": "Color Eye",
-              "value": ["dahlia"]
+              "value": [
+                "dahlia"
+              ]
             },
             {
               "name": "body",
-              "value": ["chartreux", "cymric"]
+              "value": [
+                "chartreux",
+                "cymric"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["oldlace", "aquamarine"]
+              "value": [
+                "oldlace",
+                "aquamarine"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["sandalwood", "turtleback"]
+              "value": [
+                "sandalwood",
+                "turtleback"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["sully", "patrickstarfish"]
+              "value": [
+                "sully",
+                "patrickstarfish"
+              ]
             },
             {
               "name": "Environment",
-              "value":["myparade"]
+              "value": [
+                "myparade"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":["exclusive"]
+              "value": [
+                "exclusive"
+              ]
             },
             {
               "name": "Eyes",
-              "value":["baddate"]
+              "value": [
+                "baddate"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Purrzival", "Aeoncat"]
+              "value": [
+                "Purrzival",
+                "Aeoncat"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["struck"]
+              "value": [
+                "struck"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["mittens", "rorschach"]
+              "value": [
+                "mittens",
+                "rorschach"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "furball"
+              ]
             },
             {
               "name": "Wild",
-              "value":["foghornpawhorn"]
+              "value": [
+                "foghornpawhorn"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty8",
           "itemSalesValue": "Auction",
-          "itemAuctionLeftDate": "5",
+          "auctionLimitDate": "2020-03-19 10:45:56",
           "itemAddress": "#12355645554845452121211212",
           "itemName": "Kuka Dena",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0152",
-          "updateDate" : "2001-01-10 10:34:23",
+          "updateDate": "2020-01-10 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "3"
+              "value": "3"
             },
             {
               "name": "Generation",
@@ -3306,76 +4241,108 @@
             },
             {
               "name": "Color Eye",
-              "value": ["pinefresh"]
+              "value": [
+                "pinefresh"
+              ]
             },
             {
               "name": "body",
-              "value": ["pixiebob", "lykoi"]
+              "value": [
+                "pixiebob",
+                "lykoi"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["meowgarine", "shamrock"]
+              "value": [
+                "meowgarine",
+                "shamrock"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["sandalwood", "butterscotch"]
+              "value": [
+                "sandalwood",
+                "butterscotch"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["dreamboat", "fallspice"]
+              "value": [
+                "dreamboat",
+                "fallspice"
+              ]
             },
             {
               "name": "Environment",
-              "value":["dune"]
+              "value": [
+                "dune"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":["exclusive"]
+              "value": [
+                "exclusive"
+              ]
             },
             {
               "name": "Eyes",
-              "value":["baddate"]
+              "value": [
+                "baddate"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Sparkles", "Cosmocat"]
+              "value": [
+                "Sparkles",
+                "Cosmocat"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["fabulous"]
+              "value": [
+                "fabulous"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["mittens", "rorschach"]
+              "value": [
+                "mittens",
+                "rorschach"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "furball"
+              ]
             },
             {
               "name": "Wild",
-              "value":["foghornpawhorn"]
+              "value": [
+                "foghornpawhorn"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         },
         {
           "itemImage": "kitty4",
           "itemSalesValue": "onSale",
-          "itemAuctionLeftDate": "999",
+          "auctionLimitDate": "",
           "itemAddress": "",
           "itemName": "Rara Delinana",
           "tokenImage": "ic_drawer",
           "tokenValue": "0.0153",
-          "updateDate" : "2001-01-19 10:34:23",
+          "updateDate": "2020-01-19 10:34:23",
           "owner": "perfectsoul",
           "property": [
             {
               "name": "Cooldown Index",
-              "value":  "7"
+              "value": "7"
             },
             {
               "name": "Generation",
@@ -3383,59 +4350,91 @@
             },
             {
               "name": "Color Eye",
-              "value": ["palejade"]
+              "value": [
+                "palejade"
+              ]
             },
             {
               "name": "body",
-              "value": ["pixiebob", "lykoi"]
+              "value": [
+                "pixiebob",
+                "lykoi"
+              ]
             },
             {
               "name": "Color Primary",
-              "value": ["meowgarine", "shamrock"]
+              "value": [
+                "meowgarine",
+                "shamrock"
+              ]
             },
             {
               "name": "Color Secondary",
-              "value":["sandalwood", "butterscotch"]
+              "value": [
+                "sandalwood",
+                "butterscotch"
+              ]
             },
             {
               "name": "Color Tertiary",
-              "value":["dreamboat", "fallspice"]
+              "value": [
+                "dreamboat",
+                "fallspice"
+              ]
             },
             {
               "name": "Environment",
-              "value":["floorislava"]
+              "value": [
+                "floorislava"
+              ]
             },
             {
               "name": "Exclusivity",
-              "value":["exclusive"]
+              "value": [
+                "exclusive"
+              ]
             },
             {
               "name": "Eyes",
-              "value":["baddate"]
+              "value": [
+                "baddate"
+              ]
             },
             {
               "name": "Fancy Type",
-              "value":["Sparkles", "Cosmocat"]
+              "value": [
+                "Sparkles",
+                "Cosmocat"
+              ]
             },
             {
               "name": "Mouth",
-              "value":["fangtastic"]
+              "value": [
+                "fangtastic"
+              ]
             },
             {
               "name": "Pattern",
-              "value":["henna", "scorpius"]
+              "value": [
+                "henna",
+                "scorpius"
+              ]
             },
             {
               "name": "Prestige",
-              "value":["furball"]
+              "value": [
+                "furball"
+              ]
             },
             {
               "name": "Wild",
-              "value":["flapflap"]
+              "value": [
+                "flapflap"
+              ]
             },
             {
               "name": "Description",
-              "value":"Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
+              "value": "Oh hi. I'm Missus Ausomeones. Pleased to meet you. Would you believe me if I told u the Illuminati control thie world, but cats control the Illuminati? What if I sail Pluto is actually a planet? Sorry, gotta jet!"
             }
           ]
         }
@@ -3444,192 +4443,572 @@
   ],
   "game-item-filters": [
     {
-      "gameName" : "CryptoKitties",
-      "data" : [
+      "gameName": "CryptoKitties",
+      "data": [
         {
-          "valueName" : "Type",
-          "valueType" : "TypeButton",
-          "valueItem" : ["On Sale", "Auction", "Not for sale"]
-        },
-        {
-          "valueName" : "Cooldown Index",
-          "valueType" : "Slider",
-          "valueItem" : [0, 13]
-        },
-        {
-          "valueName" : "Generation",
-          "valueType" : "Slider",
-          "valueItem" : [-1, 3895]
-        },
-        {
-          "valueName" : "Body",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-              "birman", "lynx", "bobtail", "chantilly", "laperm", 
-              "mekong", "munchkin", "himalayan", "selkirk", "ragdoll", 
-              "fox", "pixiebob", "highlander", "siberian", "chartreux", 
-              "manx", "balinese", "mainecoon", "cymric", "kurilian", 
-              "lykoi", "burmilla", "sphynx", "savannah", "manual", 
-              "liger", "persian", "norwegianforest", "toyger", "ragamuffin", 
-              "koladiviya"
+          "valueName": "Type",
+          "valueType": "TypeButton",
+          "valueItem": [
+            "On Sale",
+            "Auction",
+            "Not for sale"
           ]
         },
         {
-          "valueName" : "Color Eye",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-              "chestnut", "sapphire", "babypuke", "sizzurp", "parakeet",
-              "isotope", "twilightsparkle", "kaleidoscope", "palejade", "pinefresh",
-              "gemini", "dahlia", "eclipse", "pumpkin", "bubblegum",
-              "autumnmoon", "dioscuri", "mintgreen", "cyan", "downbythebay",
-              "topaz", "gold", "oasis", "doridnudibranch", "thundergrey",
-              "limegreen", "strawberry", "coralsunrise", "forgetmenot", "olive",
-              "bridesmaid"
+          "valueName": "Cooldown Index",
+          "valueType": "Slider",
+          "valueItem": [
+            0,
+            13
           ]
         },
         {
-          "valueName" : "Color Primary",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-              "hyacinth", "shadowgrey", "martian", "orangesoda", "koala",
-              "salmon", "cloudwhite", "tundra", "redvelvet", "hotcocoa",
-              "oldlace", "cottoncandy", "dragonfruit", "lavender", "shamrock",
-              "cinderella", "nachocheez", "mauveover", "aquamarine", "bananacream",
-              "hintomint", "brownies", "meowgarine", "harbourfog", "cornflower",
-              "glacier", "icicle", "firstblush", "verdigris", "greymatter",
-              "onyx"   
+          "valueName": "Generation",
+          "valueType": "Slider",
+          "valueItem": [
+            -1,
+            3895
           ]
         },
         {
-          "valueName" : "Color Secondary",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-              "coffee", "scarlet", "swampgreen", "royalpurple", "garnet",
-              "poisonberry", "skyblue", "peppermint", "lilac", "safetyvest",
-              "chocolate", "wolfgrey", "inflatablepool", "turtleback", "violet",
-              "mertail", "apricot", "barkbrown", "pearl", "universe",
-              "prairierose", "rosequartz", "butterscotch", "springcrocus", "padparadscha",
-              "lemonade", "cerulian", "cyborg", "royalblue", "ooze"
+          "valueName": "Body",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "birman",
+            "lynx",
+            "bobtail",
+            "chantilly",
+            "laperm",
+            "mekong",
+            "munchkin",
+            "himalayan",
+            "selkirk",
+            "ragdoll",
+            "fox",
+            "pixiebob",
+            "highlander",
+            "siberian",
+            "chartreux",
+            "manx",
+            "balinese",
+            "mainecoon",
+            "cymric",
+            "kurilian",
+            "lykoi",
+            "burmilla",
+            "sphynx",
+            "savannah",
+            "manual",
+            "liger",
+            "persian",
+            "norwegianforest",
+            "toyger",
+            "ragamuffin",
+            "koladiviya"
           ]
         },
         {
-          "valueName" : "Color Tertiary",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "daffodil", "periwinkle", "summerbonnet", "morningglory", "fallspice",
-            "sandalwood", "atlantis", "purplehaze", "patrickstarfish", "granitegrey",
-            "hanauma", "kittencream", "icy", "azaleablush", "peach", 
-            "mallowflower", "missmuffett", "seafoam", "flamingo", "sully", 
-            "emeraldgreen", "cashewmilk","dreamboat", "bloodred", "frosting", 
-            "shale", "cobalt", "kalahari", "belleblue", "buttercup",
+          "valueName": "Color Eye",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "chestnut",
+            "sapphire",
+            "babypuke",
+            "sizzurp",
+            "parakeet",
+            "isotope",
+            "twilightsparkle",
+            "kaleidoscope",
+            "palejade",
+            "pinefresh",
+            "gemini",
+            "dahlia",
+            "eclipse",
+            "pumpkin",
+            "bubblegum",
+            "autumnmoon",
+            "dioscuri",
+            "mintgreen",
+            "cyan",
+            "downbythebay",
+            "topaz",
+            "gold",
+            "oasis",
+            "doridnudibranch",
+            "thundergrey",
+            "limegreen",
+            "strawberry",
+            "coralsunrise",
+            "forgetmenot",
+            "olive",
+            "bridesmaid"
+          ]
+        },
+        {
+          "valueName": "Color Primary",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "hyacinth",
+            "shadowgrey",
+            "martian",
+            "orangesoda",
+            "koala",
+            "salmon",
+            "cloudwhite",
+            "tundra",
+            "redvelvet",
+            "hotcocoa",
+            "oldlace",
+            "cottoncandy",
+            "dragonfruit",
+            "lavender",
+            "shamrock",
+            "cinderella",
+            "nachocheez",
+            "mauveover",
+            "aquamarine",
+            "bananacream",
+            "hintomint",
+            "brownies",
+            "meowgarine",
+            "harbourfog",
+            "cornflower",
+            "glacier",
+            "icicle",
+            "firstblush",
+            "verdigris",
+            "greymatter",
+            "onyx"
+          ]
+        },
+        {
+          "valueName": "Color Secondary",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "coffee",
+            "scarlet",
+            "swampgreen",
+            "royalpurple",
+            "garnet",
+            "poisonberry",
+            "skyblue",
+            "peppermint",
+            "lilac",
+            "safetyvest",
+            "chocolate",
+            "wolfgrey",
+            "inflatablepool",
+            "turtleback",
+            "violet",
+            "mertail",
+            "apricot",
+            "barkbrown",
+            "pearl",
+            "universe",
+            "prairierose",
+            "rosequartz",
+            "butterscotch",
+            "springcrocus",
+            "padparadscha",
+            "lemonade",
+            "cerulian",
+            "cyborg",
+            "royalblue",
+            "ooze"
+          ]
+        },
+        {
+          "valueName": "Color Tertiary",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "daffodil",
+            "periwinkle",
+            "summerbonnet",
+            "morningglory",
+            "fallspice",
+            "sandalwood",
+            "atlantis",
+            "purplehaze",
+            "patrickstarfish",
+            "granitegrey",
+            "hanauma",
+            "kittencream",
+            "icy",
+            "azaleablush",
+            "peach",
+            "mallowflower",
+            "missmuffett",
+            "seafoam",
+            "flamingo",
+            "sully",
+            "emeraldgreen",
+            "cashewmilk",
+            "dreamboat",
+            "bloodred",
+            "frosting",
+            "shale",
+            "cobalt",
+            "kalahari",
+            "belleblue",
+            "buttercup",
             "mintmacaron"
           ]
         },
         {
-          "valueName" : "Environment",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "salty", "jacked", "finalfrontier", "secretgarden", "juju",
-            "floorislava", "tinybox", "prism", "myparade", "drift", 
-            "roadtogold", "dune", "metime", "junglebook", "frozen"
+          "valueName": "Environment",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "salty",
+            "jacked",
+            "finalfrontier",
+            "secretgarden",
+            "juju",
+            "floorislava",
+            "tinybox",
+            "prism",
+            "myparade",
+            "drift",
+            "roadtogold",
+            "dune",
+            "metime",
+            "junglebook",
+            "frozen"
           ]
         },
         {
-          "valueName" : "Exclusivity",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-              "exclusive"
+          "valueName": "Exclusivity",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "exclusive"
           ]
         },
         {
-          "valueName" : "Eyes",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "wiley", "bornwithit", "drama", "serpent", "crazy",
-            "wowza", "fabulous", "stunned", "chameleon", "firedup",
-            "googly", "slyboots", "raisedbrow", "alien", "simple",
-            "wonky", "thicccbrowz", "sweetmeloncakes", "tendertears", "buzzed",
-            "swarley", "otaku", "hacker", "chronic", "asif",
-            "candyshoppe", "baddate", "oceanid", "sass", "caffeine",
+          "valueName": "Eyes",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "wiley",
+            "bornwithit",
+            "drama",
+            "serpent",
+            "crazy",
+            "wowza",
+            "fabulous",
+            "stunned",
+            "chameleon",
+            "firedup",
+            "googly",
+            "slyboots",
+            "raisedbrow",
+            "alien",
+            "simple",
+            "wonky",
+            "thicccbrowz",
+            "sweetmeloncakes",
+            "tendertears",
+            "buzzed",
+            "swarley",
+            "otaku",
+            "hacker",
+            "chronic",
+            "asif",
+            "candyshoppe",
+            "baddate",
+            "oceanid",
+            "sass",
+            "caffeine",
             "wingtips"
           ]
         },
         {
-          "valueName" : "Fancy Type",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "Shoopadoop", "Mars", "Hinecatone", "LilPurrfect", "Pizzazz",
-            "Jack", "Dreggo", "Krakitten", "DJMeowlody", "Gale",
-            "DocPurr", "SheilaPurren", "Chitten", "TallyThePurrocious", "Swish",
-            "KittyFormerlyKnownAsPrince", "Glasswalker", "Furlin", "DracoTheMagnificent", "Cosmocat",
-            "Purrzival", "Berry", "LilBUB", "Meuwn", "Puuurrot",
-            "Purrspero", "Lulu", "Sparkles", "DuCat", "Aeoncat",
-            "Vernon", "Momo-chan", "GeneDough", "Boot", "PhuZiqaat",
-            "PussForProgress", "Ande", "MisterPurrfect", "ChatPlongeur", "Pepito",
-            "Felono", "Catyrax", "Magmeow", "Dracula", "Page",
-            "红包喵", "Furrmingo", "Clover", "Atlas", "Furmione",
-            "Catamari", "PoisonOrchid", "Curdlin", "SchrodingersCat", "Negato",
-            "KittyPride", "Draco", "ShipCat", "Kitijira", "Al",
-            "Bartholomeow", "Stitches", "DAPP-E", "Earnie", "Pawderick",
-            "YuriCatsuki", "Glitter", "Raspoutine", "Mistletoe", "SantaClaws",
-            "Pawrula", "SirMeowsalot", "Squiddlesworth",
-            "Meowstro", "Dukecat", "DracoJunior", "Gwendolion", "KITT-E",
-            "汪星爷", "咚咚锵", "Catbury", "Pawzilla", "Tabby",
-            "Purrity", "Flutterbee", "Pickles", "Squib", "MissPurrfect",
-            "Catseye", "Genesis", "Furbeard", "Whisper", "Robin",
+          "valueName": "Fancy Type",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "Shoopadoop",
+            "Mars",
+            "Hinecatone",
+            "LilPurrfect",
+            "Pizzazz",
+            "Jack",
+            "Dreggo",
+            "Krakitten",
+            "DJMeowlody",
+            "Gale",
+            "DocPurr",
+            "SheilaPurren",
+            "Chitten",
+            "TallyThePurrocious",
+            "Swish",
+            "KittyFormerlyKnownAsPrince",
+            "Glasswalker",
+            "Furlin",
+            "DracoTheMagnificent",
+            "Cosmocat",
+            "Purrzival",
+            "Berry",
+            "LilBUB",
+            "Meuwn",
+            "Puuurrot",
+            "Purrspero",
+            "Lulu",
+            "Sparkles",
+            "DuCat",
+            "Aeoncat",
+            "Vernon",
+            "Momo-chan",
+            "GeneDough",
+            "Boot",
+            "PhuZiqaat",
+            "PussForProgress",
+            "Ande",
+            "MisterPurrfect",
+            "ChatPlongeur",
+            "Pepito",
+            "Felono",
+            "Catyrax",
+            "Magmeow",
+            "Dracula",
+            "Page",
+            "红包喵",
+            "Furrmingo",
+            "Clover",
+            "Atlas",
+            "Furmione",
+            "Catamari",
+            "PoisonOrchid",
+            "Curdlin",
+            "SchrodingersCat",
+            "Negato",
+            "KittyPride",
+            "Draco",
+            "ShipCat",
+            "Kitijira",
+            "Al",
+            "Bartholomeow",
+            "Stitches",
+            "DAPP-E",
+            "Earnie",
+            "Pawderick",
+            "YuriCatsuki",
+            "Glitter",
+            "Raspoutine",
+            "Mistletoe",
+            "SantaClaws",
+            "Pawrula",
+            "SirMeowsalot",
+            "Squiddlesworth",
+            "Meowstro",
+            "Dukecat",
+            "DracoJunior",
+            "Gwendolion",
+            "KITT-E",
+            "汪星爷",
+            "咚咚锵",
+            "Catbury",
+            "Pawzilla",
+            "Tabby",
+            "Purrity",
+            "Flutterbee",
+            "Pickles",
+            "Squib",
+            "MissPurrfect",
+            "Catseye",
+            "Genesis",
+            "Furbeard",
+            "Whisper",
+            "Robin",
             "Skeletonne"
           ]
         },
         {
-          "valueName" : "Mouth",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "samwise", "grim", "pouty", "zzzwuvme", "dali",
-            "belch", "starstruck", "cheeky", "rollercoaster", "happygokitty",
-            "moue", "fangtastic", "grimace", "gerbil", "saycheese",
-            "wasntme", "confuzzled", "ruhrohyokel", "struck", "neckbeard",
-            "satiated", "topoftheworld", "soserious", "whixtensions","impish",
-            "majestic", "beard", "tongue", "walrus", "delite"
+          "valueName": "Mouth",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "samwise",
+            "grim",
+            "pouty",
+            "zzzwuvme",
+            "dali",
+            "belch",
+            "starstruck",
+            "cheeky",
+            "rollercoaster",
+            "happygokitty",
+            "moue",
+            "fangtastic",
+            "grimace",
+            "gerbil",
+            "saycheese",
+            "wasntme",
+            "confuzzled",
+            "ruhrohyokel",
+            "struck",
+            "neckbeard",
+            "satiated",
+            "topoftheworld",
+            "soserious",
+            "whixtensions",
+            "impish",
+            "majestic",
+            "beard",
+            "tongue",
+            "walrus",
+            "delite"
           ]
         },
         {
-          "valueName" : "Pattern",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "dippedcone", "calicool", "ganado", "vigilante", "spock",
-            "tigerpunk", "allyouneed", "mittens", "avatar", "jaguar",
-            "leopard", "moonrise", "gyre", "rorschach", "rascal",
-            "hotrod", "thunderstruck", "henna", "arcreactor", "totesbasic",
-            "tiger", "luckystripe", "amur", "spangled", "highsociety",
-            "razzledazzle", "scorpius",
-            "splat", "camo"
+          "valueName": "Pattern",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "dippedcone",
+            "calicool",
+            "ganado",
+            "vigilante",
+            "spock",
+            "tigerpunk",
+            "allyouneed",
+            "mittens",
+            "avatar",
+            "jaguar",
+            "leopard",
+            "moonrise",
+            "gyre",
+            "rorschach",
+            "rascal",
+            "hotrod",
+            "thunderstruck",
+            "henna",
+            "arcreactor",
+            "totesbasic",
+            "tiger",
+            "luckystripe",
+            "amur",
+            "spangled",
+            "highsociety",
+            "razzledazzle",
+            "scorpius",
+            "splat",
+            "camo"
           ]
         },
         {
-          "valueName" : "Prestige",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "furball", "prune"
+          "valueName": "Prestige",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "furball",
+            "prune"
           ]
         },
         {
-          "valueName" : "Wild",
-          "valueType" : "ValueButton",
-          "valueItem" : [
-            "wyrm", "aflutter", "daemonhorns", "trioculus", "dragonwings",
-            "alicorn", "flapflap", "ducky", "dragontail", "unicorn", 
-            "foghornpawhorn", "elk", "daemonwings", "featherbrain", "littlefoot"
+          "valueName": "Wild",
+          "valueType": "ValueButton",
+          "valueItem": [
+            "wyrm",
+            "aflutter",
+            "daemonhorns",
+            "trioculus",
+            "dragonwings",
+            "alicorn",
+            "flapflap",
+            "ducky",
+            "dragontail",
+            "unicorn",
+            "foghornpawhorn",
+            "elk",
+            "daemonwings",
+            "featherbrain",
+            "littlefoot"
           ]
         }
-
       ]
     }
   ],
-  "game-summary" : [
+  "game-summary": [
     {
-      "gameName" : "CryptoKitties",
-      "gameStar" : "4",
-      "isFavorite" : "true"
+      "gameName": "CryptoKitties",
+      "gameStar": "4",
+      "isFavorite": "true"
+    }
+  ],
+  "item-trade-history": [
+    {
+      "status": "Create",
+      "price": "",
+      "from": "0x0000000000000000000",
+      "to": "perfectsoul",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-12 10:34:23"
+    },
+    {
+      "status": "Started Sale",
+      "price": "123.123456",
+      "from": "Perfectsoul",
+      "to": "",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-11 10:14:23"
+    },
+    {
+      "status": "Offer",
+      "price": "123.12",
+      "from": "ToTheMoon",
+      "to": "",
+      "etherscanLink": "No",
+      "tradeDate": "2020-02-10 09:34:23"
+    },
+    {
+      "status": "Canceled Sale",
+      "price": "123.12",
+      "from": "Perfectsoul",
+      "to": "",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-09 09:34:23"
+    },
+    {
+      "status": "Started Auction",
+      "price": "123.12",
+      "from": "Perfectsoul",
+      "to": "",
+      "etherscanLink": "No",
+      "tradeDate": "2020-02-08 11:34:23"
+    },
+    {
+      "status": "Bid",
+      "price": "123.12",
+      "from": "ToTheMoon",
+      "to": "",
+      "etherscanLink": "No",
+      "tradeDate": "2020-02-07 09:34:43"
+    },
+    {
+      "status": "Canceled Bid",
+      "price": "123.12",
+      "from": "ToTheMoon",
+      "to": "NEXTURE",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-06 13:34:43"
+    },
+    {
+      "status": "Sold",
+      "price": "123.12",
+      "from": "perfectsoul",
+      "to": "0x12345c45de65f4334",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-05 09:44:43"
+    },
+    {
+      "status": "Gift",
+      "price": "",
+      "from": "0x12345c45de65f4334",
+      "to": "perfectsoul",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-04 13:34:43"
+    },
+    {
+      "status": "Extinction",
+      "price": "",
+      "from": "perfectsoul",
+      "to": "0x00000000000000000000",
+      "etherscanLink": "Yes",
+      "tradeDate": "2020-02-03 13:34:43"
     }
   ]
-}
+}}
